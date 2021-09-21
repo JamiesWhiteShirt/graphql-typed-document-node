@@ -16,7 +16,7 @@
     "prepack": "bob prepack"
   },
   "devDependencies": {
-    "bob-the-bundler": "1.1.0",
+    "bob-the-bundler": "1.5.1",
     "graphql": "15.6.0",
     "typescript": "3.9.7"
   },

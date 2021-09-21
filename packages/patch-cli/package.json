@@ -23,7 +23,7 @@
     "semver": "7.3.2"
   },
   "devDependencies": {
-    "bob-the-bundler": "1.1.0",
+    "bob-the-bundler": "1.5.1",
     "@types/tmp": "0.2.0",
     "tmp": "0.2.1",
     "@types/semver": "7.3.1",
